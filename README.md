@@ -3,9 +3,9 @@
 ## Introduction
 This project involves predicting sales by analyzing the relationship between advertising expenditures on various platforms like TV, radio, and newspaper. Leveraging Python and machine learning techniques, particularly linear regression, this project aims to provide insights into how different advertising channels impact sales figures.
 
-### Assignment Details:
-- **Name**: Chaman Yadav
-- **Objective**: To forecast sales by considering factors such as advertising expenditure on different platforms.
+
+## Objective
+To forecast sales by considering factors such as advertising expenditure on different platforms.
 
 ## Getting Started
 To begin with, make sure you have Python installed along with necessary libraries like NumPy, Pandas, Matplotlib, and Seaborn.
